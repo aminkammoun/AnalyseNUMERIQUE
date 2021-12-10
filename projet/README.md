@@ -63,6 +63,11 @@
 <h2 > 5.Etude de dérivé:</h2>
 
  <h3> 5.a.Ordre de dérivé:</h3>
+<h1>Demo</h1>
+<hr>
+<img src="/Pictures/demo_f.gif" alt="Calculer le dérive et prémitive de f(x) et afficher les 3 courbes" width="800" height="400">
+<img src="/Pictures/demo_integ.gif" alt="Calculer la valeur exacte d'un itégrale et calculer et afficher la valeur approché ansi que l'erreur d'une méthode d'analyse numérique" width="800" height="400">
+
 
 <h1> Méthodes d'intégration numérique:</h1>
 
