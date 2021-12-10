@@ -240,13 +240,13 @@ class mclass:
 
             # Label
         self.integ_txt=StringVar()
-        self.integ_txt.set("Si tu veux calculer la V.A de l'intégrale: ")
+        self.integ_txt.set("if you want to calculate V.A integrale: ")
         self.label_integ = Label(self.fr3, textvariable=self.integ_txt,justify=RIGHT, anchor="w", height=4, font=("Arial", 12))
         self.label_integ.grid(row=1,column=0,columnspan=3)
 
             # ComboBox
         self.meth_txt=StringVar()
-        self.meth_txt.set("Choisir une méthode: ")
+        self.meth_txt.set("Fixer une méthode: ")
         self.label_meth = Label(self.fr3, textvariable=self.meth_txt,justify=RIGHT, anchor="w",height=4, font=("Arial", 12))
         self.label_meth.grid(sticky = E, row=2, column=0)
         
