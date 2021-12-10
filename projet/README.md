@@ -86,7 +86,7 @@
 <p>Le passage à la limite fournit l'intégrale cherchée</p>
 <h2> 3.Méthode des trapèzes:</h3>
 
-<FONT FACE="Arial, Helvetica, sans-serif" size="4">En analyse numérique, la méthode des trapèzes est une méthode pour le calcul numérique d'une intégrale ,s'appuyant sur l'interpolation linéaire par intervalles.</FONT> </br>
+<FONT FACE="Arial, Helvetica, sans-serif" size="4">l'interpolation linéaire par intervalles.</FONT> </br>
 <a href="https://www.codecogs.com/eqnedit.php?latex=\int_{a}^{b}&space;f(x)dx" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\int_{a}^{b}&space;f(x)dx" title="\int_{a}^{b} f(x)dx" /></a>
 
 <FONT FACE="Arial, Helvetica, sans-serif" size="4">Le principe est d'assimiler la région sous la courbe représentative d'une fonction f définie sur un segment </br>
