@@ -86,6 +86,13 @@
 <p>Le passage à la limite fournit l'intégrale cherchée</p>
 <h2> 3.Méthode des trapèzes:</h3>
 
+<FONT FACE="Arial, Helvetica, sans-serif" size="4">En analyse numérique, la méthode des trapèzes est une méthode pour le calcul numérique d'une intégrale ,s'appuyant sur l'interpolation linéaire par intervalles.</FONT> </br>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\int_{a}^{b}&space;f(x)dx" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\int_{a}^{b}&space;f(x)dx" title="\int_{a}^{b} f(x)dx" /></a>
+
+<FONT FACE="Arial, Helvetica, sans-serif" size="4">Le principe est d'assimiler la région sous la courbe représentative d'une fonction f définie sur un segment </br>
+<a href="https://www.codecogs.com/eqnedit.php?latex=[a&space;,&space;b]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?[a&space;,&space;b]" title="[a , b]" /></a> à un trapèze et d'en calculer l'aire T :</FONT>
+<br/><a href="https://www.codecogs.com/eqnedit.php?latex=T&space;=&space;(b-a)&space;\frac{f(a)&plus;f(b)}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?T&space;=&space;(b-a)&space;\frac{f(a)&plus;f(b)}{2}" title="T = (b-a) \frac{f(a)+f(b)}{2}" /></a>
+
 <h2> 4.Méthode de simpson:</h2>
 
 <h2> 5.Méthode des points milieux:</h2>
