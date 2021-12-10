@@ -52,44 +52,42 @@
 
 <h1>Introduction général:</h1>
 
-
-
 <h1>Etude d'une fonction : </h1>
 
 <h2> 1.But </h2>
 
-
 <h2> 3.Etude graphique:</h2>
-
 
 <h2> 4.Etude de primitive :</h2>
 
-
 <h2 > 5.Etude de dérivé:</h2>
 
- 
  <h3> 5.a.Ordre de dérivé:</h3>
-
 
 <h1> Méthodes d'intégration numérique:</h1>
 
 <h2> 1.But</h2>
-
+<p>Le but  est d’aborder le calcul général de l’intégrale d’une fonction  <a href="https://www.codecogs.com/eqnedit.php?latex=C^{(n)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C^{(n)}" title="f(x)" /></a> sur un domaine fini délimité par des bornes finies a et b.</p>
 
 <h2> 2.Méthode de Réctangle:</h2>
+<FONT FACE="Arial, Helvetica, sans-serif" size="4">Cette méthode, très élémentaire, basée sur les sommes de Cauchy-Riemann (approchant l'aire sous une courbe) et appliquée à une fonction f continue, permet le calcul approché d'intégrales en choisissant une subdivision régulière de pas </Font> <br/>
+<a href="https://www.codecogs.com/eqnedit.php?latex=xi&plus;1&space;-&space;xi&space;=&space;\frac{(b-a)}{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?xi&plus;1&space;-&space;xi&space;=&space;\frac{(b-a)}{n}" title="xi+1 - xi = \frac{(b-a)}{n}" /></a>
 
-
-
+<p>donc indépendant de i avec une valeur de n <i>"suffisamment grande"</i>.</p>
+<FONT FACE="Arial, Helvetica, sans-serif" size="4">On obtient une succession de rectangles en rose ci-contre, d'où le nom de cette méthode, approchant l'aire sous la courbe,  où ci est choisi ici au "milieu" de </FONT> <br/>
+<a href="https://www.codecogs.com/eqnedit.php?latex=[xi&space;,&space;xi&plus;1]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?[xi&space;,&space;xi&plus;1]" title="[xi , xi+1]" /></a>
+<p>On calcule :</p>
+<a href="https://www.codecogs.com/eqnedit.php?latex=S_{n}&space;=&space;h&space;*&space;\sum&space;f(c_{i})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?S_{n}&space;=&space;h&space;*&space;\sum&space;f(c_{i})" title="S_{n} = h * \sum f(c_{i})" /></a>
+<p><b>i variant de 0 à n - 1</b></p>
+<p>Avec : </p>
+<a href="https://www.codecogs.com/eqnedit.php?latex=h&space;=&space;\frac&space;{b-a}{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?h&space;=&space;\frac&space;{b-a}{n}" title="h = \frac {b-a}{n}" /></a> <br/>
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_i&space;=&space;a&space;&plus;&space;i.h" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_i&space;=&space;a&space;&plus;&space;i.h" title="x_i = a + i.h" /></a> <br/>
+<a href="https://www.codecogs.com/eqnedit.php?latex=c_i&space;=&space;(x_i&plus;1&space;&plus;&space;x_i)/2&space;=&space;a&space;&plus;&space;i.h&space;&plus;&space;\frac&space;{h}{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?c_i&space;=&space;(x_i&plus;1&space;&plus;&space;x_i)/2&space;=&space;a&space;&plus;&space;i.h&space;&plus;&space;\frac&space;{h}{2}" title="c_i = (x_i+1 + x_i)/2 = a + i.h + \frac {h}{2}" /></a>
+<p>Le passage à la limite fournit l'intégrale cherchée</p>
 <h2> 3.Méthode des trapèzes:</h3>
-
-
 
 <h2> 4.Méthode de simpson:</h2>
 
-
 <h2> 5.Méthode des points milieux:</h2>
 
-
-
 <h1> Conclustion et perspectives</h1>
-
